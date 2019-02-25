@@ -1,0 +1,4 @@
+*.bak
+*.sha1
+.piperdefault.json
+	
