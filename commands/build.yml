@@ -1,0 +1,3 @@
+- shell:
+    inline: tar cvf {{ model.output }}/mysql-{{ model.piper.fullVersion }}.tar.gz mysql-{{ model.piper.fullVersion }}/
+    directory: /opt
